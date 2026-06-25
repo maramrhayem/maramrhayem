@@ -3,7 +3,7 @@
 <h3 align="center">Business Intelligence & Data Analytics | Développement Web & Mobile</h3>
 
 <p align="center">
-  <a href="mailto:maram.rhayem@isgb.ucar.tn">📧 maram.rhayem@isgb.ucar.tn</a> &nbsp;|&nbsp;
+  <a href="mailto:maramrhayem9@gmail.com">📧 maramrhayem@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/maram-rhayem">💼 LinkedIn</a> &nbsp;|&nbsp;
   📍 Bizerte, Tunisie
 </p>
@@ -82,7 +82,7 @@ Scripts d'analyse et de visualisation de données réalisés avec R et RStudio.
 ## 📫 Me contacter
 
 Tu veux collaborer ou me proposer un stage ?  
-👉 **maram.rhayem@isgb.ucar.tn**
+👉 **maramrhayem9@gmail.com**
 
 ---
 
