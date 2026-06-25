@@ -3,7 +3,7 @@
 <h3 align="center">Business Intelligence & Data Analytics | Développement Web & Mobile</h3>
 
 <p align="center">
-  <a href="mailto:maramrhayem9@gmail.com">📧 maramrhayem@gmail.com</a> &nbsp;|&nbsp;
+  <a href="mailto:maramrhayem9@gmail.com">📧 maramrhayem9@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/maram-rhayem">💼 LinkedIn</a> &nbsp;|&nbsp;
   📍 Bizerte, Tunisie
 </p>
